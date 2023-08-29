@@ -1,8 +1,3 @@
-/* Anthony Marrongelli
- * COP3503
- * 7/1/2023
- */
-
 
 public class TwoFourTree {
     private class TwoFourTreeItem {
